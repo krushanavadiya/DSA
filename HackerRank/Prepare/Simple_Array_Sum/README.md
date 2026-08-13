@@ -3,4 +3,4 @@
 **Difficulty:** Unknown
 
 ## Approach / Notes
-hehe
+No notes provided.
