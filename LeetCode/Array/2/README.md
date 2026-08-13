@@ -1,6 +1,6 @@
 # 2
 
-**Difficulty:** Easy
+**Difficulty:** Hard
 
 ## Approach / Notes
 No notes provided.
